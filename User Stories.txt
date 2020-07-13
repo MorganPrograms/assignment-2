@@ -1,0 +1,4 @@
+As an Event Manager I want to delete an event so that I can remove it from the list of current events.
+As an Event Manager I want to edit an event so that I can make any changes to that event if necessary.  
+As an Event Manager I want to be able to search for an event so that I can view a specific event quickly. 
+As an Event Manager I want to create exclusive events so that I can create events accessible to only a select group of people who possess a passphrase.   
